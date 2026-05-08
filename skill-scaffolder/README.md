@@ -78,7 +78,7 @@ Plus optional `scripts/`, `references/`, or `assets/` folders if your skill need
 
 ## Iterating further
 
-Once you have a draft, Anthropic's [skill-creator](https://github.com/anthropics/claude-skills) skill will help you build evals, test trigger accuracy, and optimize the description through automated iteration. Use this scaffolder for the first pass; use skill-creator for the optimization loop.
+Once you have a draft, Anthropic's skill-creator skill will help you build evals, test trigger accuracy, and optimize the description through automated iteration. Use this scaffolder for the first pass; use skill-creator for the optimization loop.
 
 ## Requirements
 
